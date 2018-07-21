@@ -1,0 +1,32 @@
+body {
+	font-family:arial,sans-serif;
+	background-image: url(theme.jpg);
+	background-repeat: repeat; 
+}
+h1 {
+	color:#4689c6;
+	font-weight: bold;
+	position:relative;
+	top:2em;
+	left:3em;
+}
+pre {
+	position:relative;
+	top:10em;
+	left:5em;
+}
+label{
+	color:#FFFFFF;
+}
+div {
+	position:relative;
+	top:4em;
+	left:8em;
+	color:red;
+}
+p{
+	color:#FFFFFF;
+	position:relative;
+	left:10em;
+	top:4em;
+}
